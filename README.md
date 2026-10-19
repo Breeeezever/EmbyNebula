@@ -4,7 +4,7 @@
 
 当前版本：**v3.7.4**（基于上游 [MakkaPakka518/ProxyHub_Emby](https://github.com/MakkaPakka518/ProxyHub_Emby) v3.6.x 二次开发，v3.7.x 为本仓库独立演进版本）
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=<替换为你的GitHub仓库地址>)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Breeeezever/EmbyNebula)
 
 > 一键部署：点击按钮 → 授权 GitHub → 选择本仓库 → Cloudflare 自动读取 `wrangler.toml` 构建部署。
 > 部署完成后必须补齐绑定与变量（见下方「首次配置」），否则面板无法登录。
