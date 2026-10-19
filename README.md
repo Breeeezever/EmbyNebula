@@ -2,7 +2,7 @@
 
 基于 Cloudflare Workers 的 Emby 反代多线路调度面板 —— 为每个媒体库配置独立反代线路、加密模式与访问限制，内置数据大厅、优选 IP、日志中心与 IP 访问控制。
 
-当前版本：**v3.7.4**（基于上游 [MakkaPakka518/ProxyHub_Emby](https://github.com/MakkaPakka518/ProxyHub_Emby) v3.6.x 二次开发，v3.7.x 为本仓库独立演进版本）
+当前版本：**v3.7.4**（基于上游 [MakkaPakka518/ProxyHub_Emby](https://github.com/MakkaPakka518/ProxyHub_Emby) v3.4.6 二次开发，v3.7.x 为本仓库独立演进版本）
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Breeeezever/EmbyNebula)
 
